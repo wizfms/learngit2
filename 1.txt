@@ -1,2 +1,3 @@
 Git is a version control system and a version Control system.
 Git is free software.
+git is an interesting thing.
